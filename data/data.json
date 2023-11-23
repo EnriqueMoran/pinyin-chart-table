@@ -1,0 +1,6448 @@
+{
+    "pinyin": "a",
+    "order": 1,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/a1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/a2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/a3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/a4.mp3"
+    ]
+}
+{
+    "pinyin": "ba",
+    "order": 2,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ba1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ba2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ba3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ba4.mp3"
+    ]
+}
+{
+    "pinyin": "pa",
+    "order": 3,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pa1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pa2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pa3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pa4.mp3"
+    ]
+}
+{
+    "pinyin": "ma",
+    "order": 4,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ma1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ma2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ma3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ma4.mp3"
+    ]
+}
+{
+    "pinyin": "fa",
+    "order": 5,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/fa1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/fa2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/fa3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/fa4.mp3"
+    ]
+}
+{
+    "pinyin": "da",
+    "order": 6,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/da1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/da2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/da3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/da4.mp3"
+    ]
+}
+{
+    "pinyin": "ta",
+    "order": 7,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ta1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ta2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ta3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ta4.mp3"
+    ]
+}
+{
+    "pinyin": "na",
+    "order": 8,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/na1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/na2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/na3.mp3" 
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/na4.mp3"
+    ]
+}
+{
+    "pinyin": "la",
+    "order": 9,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/la1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/la2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/la3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/la4.mp3"
+    ]
+}
+{
+    "pinyin": "ga",
+    "order": 10,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ga1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ga2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ga3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ga4.mp3"
+    ]
+}
+{
+    "pinyin": "ka",
+    "order": 11,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ka1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ka2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ka3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ka4.mp3"
+    ]
+}
+{
+    "pinyin": "ha",
+    "order": 12,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ha1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ha2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ha3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ha4.mp3"
+    ]
+}
+{
+    "pinyin": "za",
+    "order": 13,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/za1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/za2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/za3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/za4.mp3"
+    ]
+}
+{
+    "pinyin": "ca",
+    "order": 14,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ca1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ca2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ca3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ca4.mp3"
+    ]
+}
+{
+    "pinyin": "sa",
+    "order": 15,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sa1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sa2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sa3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sa4.mp3"
+    ]
+}
+{
+    "pinyin": "zha",
+    "order": 16,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zha1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zha2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zha3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zha4.mp3"
+    ]
+}
+{
+    "pinyin": "cha",
+    "order": 17,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cha1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cha2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cha3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cha4.mp3"
+    ]
+}
+{
+    "pinyin": "sha",
+    "order": 18,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sha1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sha2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sha3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sha4.mp3"
+    ]
+}
+{
+    "pinyin": "ai",
+    "order": 19,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ai1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ai2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ai3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ai4.mp3"
+    ]
+}
+{
+    "pinyin": "bai",
+    "order": 20,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bai1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bai2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bai3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bai4.mp3"
+    ]
+}
+{
+    "pinyin": "pai",
+    "order": 21,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pai1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pai2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pai3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pai4.mp3"
+    ]
+}
+{
+    "pinyin": "mai",
+    "order": 22,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mai1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mai2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mai3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mai4.mp3"
+    ]
+}
+{
+    "pinyin": "dai",
+    "order": 23,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dai1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dai2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dai3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dai4.mp3"
+    ]
+}
+{
+    "pinyin": "tai",
+    "order": 24,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tai1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tai2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tai3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tai4.mp3"
+    ]
+}
+{
+    "pinyin": "nai",
+    "order": 25,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nai1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nai2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nai3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nai4.mp3"
+    ]
+}
+{
+    "pinyin": "lai",
+    "order": 26,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lai1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lai2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lai3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lai4.mp3"
+    ]
+}
+{
+    "pinyin": "gai",
+    "order": 27,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gai1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gai2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gai3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gai4.mp3"
+    ]
+}
+{
+    "pinyin": "kai",
+    "order": 28,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kai1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kai2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kai3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kai4.mp3"
+    ]
+}
+{
+    "pinyin": "hai",
+    "order": 29,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hai1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hai2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hai3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hai4.mp3"
+    ]
+}
+{
+    "pinyin": "zai",
+    "order": 30,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zai1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zai2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zai3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zai4.mp3"
+    ]
+}
+{
+    "pinyin": "cai",
+    "order": 31,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cai1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cai2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cai3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cai4.mp3"
+    ]
+}
+{
+    "pinyin": "sai",
+    "order": 32,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sai1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sai2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sai3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sai4.mp3"
+    ]
+}
+{
+    "pinyin": "zhai",
+    "order": 33,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhai1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhai2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhai3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhai4.mp3"
+    ]
+}
+{
+    "pinyin": "chai",
+    "order": 34,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chai1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chai2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chai3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chai4.mp3"
+    ]
+}
+{
+    "pinyin": "shai",
+    "order": 35,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shai1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shai2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shai3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shai4.mp3"
+    ]
+}
+{
+    "pinyin": "an",
+    "order": 36,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/an1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/an2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/an3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/an4.mp3"
+    ]
+}
+{
+    "pinyin": "ban",
+    "order": 37,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ban1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ban2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ban3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ban4.mp3"
+    ]
+}
+{
+    "pinyin": "pan",
+    "order": 38,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pan1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pan2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pan3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pan4.mp3"
+    ]
+}
+{
+    "pinyin": "man",
+    "order": 39,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/man1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/man2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/man3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/man4.mp3"
+    ]
+}
+{
+    "pinyin": "fan",
+    "order": 40,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/fan1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/fan2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/fan3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/fan4.mp3"
+    ]
+}
+{
+    "pinyin": "dan",
+    "order": 41,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dan1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dan2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dan3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dan4.mp3"
+    ]
+}
+{
+    "pinyin": "tan",
+    "order": 42,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tan1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tan2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tan3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tan4.mp3"
+    ]
+}
+{
+    "pinyin": "nan",
+    "order": 43,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nan1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nan2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nan3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nan4.mp3"
+    ]
+}
+{
+    "pinyin": "lan",
+    "order": 44,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lan1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lan2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lan3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lan4.mp3"
+    ]
+}
+{
+    "pinyin": "gan",
+    "order": 45,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gan1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gan2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gan3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gan4.mp3"
+    ]
+}
+{
+    "pinyin": "kan",
+    "order": 46,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kan1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kan2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kan3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kan4.mp3"
+    ]
+}
+{
+    "pinyin": "han",
+    "order": 47,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/han1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/han2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/han3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/han4.mp3"
+    ]
+}
+{
+    "pinyin": "zan",
+    "order": 48,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zan1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zan2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zan3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zan4.mp3"
+    ]
+}
+{
+    "pinyin": "can",
+    "order": 49,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/can1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/can2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/can3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/can4.mp3"
+    ]
+}
+{
+    "pinyin": "san",
+    "order": 50,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/san1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/san2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/san3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/san4.mp3"
+    ]
+}
+{
+    "pinyin": "zhan",
+    "order": 51,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhan1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhan2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhan3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhan4.mp3"
+    ]
+}
+{
+    "pinyin": "chan",
+    "order": 52,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chan1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chan2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chan3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chan4.mp3"
+    ]
+}
+{
+    "pinyin": "shan",
+    "order": 53,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shan1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shan2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shan3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shan4.mp3"
+    ]
+}
+{
+    "pinyin": "ran",
+    "order": 54,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ran1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ran2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ran3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ran4.mp3"
+    ]
+}
+{
+    "pinyin": "ang",
+    "order": 55,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ang1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ang2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ang3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ang4.mp3"
+    ]
+}
+{
+    "pinyin": "bang",
+    "order": 56,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bang1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bang2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bang3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bang4.mp3"
+    ]
+}
+{
+    "pinyin": "pang",
+    "order": 57,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pang1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pang2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pang3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pang4.mp3"
+    ]
+}
+{
+    "pinyin": "mang",
+    "order": 58,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mang1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mang2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mang3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mang4.mp3"
+    ]
+}
+{
+    "pinyin": "fang",
+    "order": 59,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/fang1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/fang2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/fang3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/fang4.mp3"
+    ]
+}
+{
+    "pinyin": "dang",
+    "order": 60,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dang1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dang2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dang3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dang4.mp3"
+    ]
+}
+{
+    "pinyin": "tang",
+    "order": 61,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tang1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tang2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tang3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tang4.mp3"
+    ]
+}
+{
+    "pinyin": "nang",
+    "order": 62,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nang1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nang2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nang3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nang4.mp3"
+    ]
+}
+{
+    "pinyin": "lang",
+    "order": 63,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lang1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lang2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lang3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lang4.mp3"
+    ]
+}
+{
+    "pinyin": "gang",
+    "order": 64,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gang1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gang2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gang3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gang4.mp3"
+    ]
+}
+{
+    "pinyin": "kang",
+    "order": 65,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kang1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kang2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kang3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kang4.mp3"
+    ]
+}
+{
+    "pinyin": "hang",
+    "order": 66,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hang1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hang2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hang3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hang4.mp3"
+    ]
+}
+{
+    "pinyin": "zang",
+    "order": 67,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zang1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zang2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zang3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zang4.mp3"
+    ]
+}
+{
+    "pinyin": "cang",
+    "order": 68,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cang1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cang2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cang3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cang4.mp3"
+    ]
+}
+{
+    "pinyin": "sang",
+    "order": 69,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sang1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sang2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sang3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sang4.mp3"
+    ]
+}
+{
+    "pinyin": "zhang",
+    "order": 70,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhang1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhang2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhang3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhang4.mp3"
+    ]
+}
+{
+    "pinyin": "chang",
+    "order": 71,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chang1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chang2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chang3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chang4.mp3"
+    ]
+}
+{
+    "pinyin": "shang",
+    "order": 72,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shang1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shang2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shang3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shang4.mp3"
+    ]
+}
+{
+    "pinyin": "rang",
+    "order": 73,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/rang1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/rang2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/rang3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/rang4.mp3"
+    ]
+}
+{
+    "pinyin": "ao",
+    "order": 74,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ao1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ao2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ao3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ao4.mp3"
+    ]
+}
+{
+    "pinyin": "bao",
+    "order": 75,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bao1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bao2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bao3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bao4.mp3"
+    ]
+}
+{
+    "pinyin": "pao",
+    "order": 76,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pao1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pao2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pao3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pao4.mp3"
+    ]
+}
+{
+    "pinyin": "mao",
+    "order": 77,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mao1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mao2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mao3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mao4.mp3"
+    ]
+}
+{
+    "pinyin": "dao",
+    "order": 78,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dao1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dao2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dao3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dao4.mp3"
+    ]
+}
+{
+    "pinyin": "tao",
+    "order": 79,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tao1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tao2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tao3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tao4.mp3"
+    ]
+}
+{
+    "pinyin": "nao",
+    "order": 80,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nao1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nao2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nao3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nao4.mp3"
+    ]
+}
+{
+    "pinyin": "lao",
+    "order": 81,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lao1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lao2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lao3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lao4.mp3"
+    ]
+}
+{
+    "pinyin": "gao",
+    "order": 82,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gao1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gao2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gao3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gao4.mp3"
+    ]
+}
+{
+    "pinyin": "kao",
+    "order": 83,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kao1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kao2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kao3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kao4.mp3"
+    ]
+}
+{
+    "pinyin": "hao",
+    "order": 84,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hao1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hao2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hao3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hao4.mp3"
+    ]
+}
+{
+    "pinyin": "zao",
+    "order": 85,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zao1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zao2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zao3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zao4.mp3"
+    ]
+}
+{
+    "pinyin": "cao",
+    "order": 86,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cao1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cao2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cao3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cao4.mp3"
+    ]
+}
+{
+    "pinyin": "sao",
+    "order": 87,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sao1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sao2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sao3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sao4.mp3"
+    ]
+}
+{
+    "pinyin": "zhao",
+    "order": 88,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhao1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhao2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhao3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhao4.mp3"
+    ]
+}
+{
+    "pinyin": "chao",
+    "order": 88,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chao1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chao2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chao3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chao4.mp3"
+    ]
+}
+{
+    "pinyin": "shao",
+    "order": 89,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shao1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shao2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shao3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shao4.mp3"
+    ]
+}
+{
+    "pinyin": "rao",
+    "order": 90,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/rao1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/rao2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/rao3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/rao4.mp3"
+    ]
+}
+{
+    "pinyin": "e",
+    "order": 91,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/e1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/e2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/e3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/e4.mp3"
+    ]
+}
+{
+    "pinyin": "me",
+    "order": 92,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/me1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/me2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/me3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/me4.mp3"
+    ]
+}
+{
+    "pinyin": "de",
+    "order": 93,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/de1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/de2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/de3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/de4.mp3"
+    ]
+}
+{
+    "pinyin": "te",
+    "order": 94,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/te1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/te2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/te3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/te4.mp3"
+    ]
+}
+{
+    "pinyin": "ne",
+    "order": 95,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ne1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ne2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ne3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ne4.mp3"
+    ]
+}
+{
+    "pinyin": "le",
+    "order": 96,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/le1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/le2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/le3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/le4.mp3"
+    ]
+}
+{
+    "pinyin": "ge",
+    "order": 97,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ge1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ge2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ge3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ge4.mp3"
+    ]
+}
+{
+    "pinyin": "ke",
+    "order": 98,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ke1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ke2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ke3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ke4.mp3"
+    ]
+}
+{
+    "pinyin": "he",
+    "order": 99,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/he1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/he2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/he3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/he4.mp3"
+    ]
+}
+{
+    "pinyin": "ze",
+    "order": 100,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ze1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ze2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ze3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ze4.mp3"
+    ]
+}
+{
+    "pinyin": "ce",
+    "order": 101,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ce1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ce2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ce3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ce4.mp3"
+    ]
+}
+{
+    "pinyin": "se",
+    "order": 102,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/se1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/se2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/se3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/se4.mp3"
+    ]
+}
+{
+    "pinyin": "zhe",
+    "order": 103,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhe1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhe2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhe3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhe4.mp3"
+    ]
+}
+{
+    "pinyin": "che",
+    "order": 104,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/che1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/che2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/che3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/che4.mp3"
+    ]
+}
+{
+    "pinyin": "she",
+    "order": 105,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/she1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/she2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/she3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/she4.mp3"
+    ]
+}
+{
+    "pinyin": "re",
+    "order": 106,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/re1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/re2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/re3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/re4.mp3"
+    ]
+}
+{
+    "pinyin": "ei",
+    "order": 107,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ei1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ei2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ei3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ei4.mp3"
+    ]
+}
+{
+    "pinyin": "bei",
+    "order": 108,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bei1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bei2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bei3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bei4.mp3"
+    ]
+}
+{
+    "pinyin": "pei",
+    "order": 109,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pei1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pei2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pei3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pei4.mp3"
+    ]
+}
+{
+    "pinyin": "mei",
+    "order": 110,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mei1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mei2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mei3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mei4.mp3"
+    ]
+}
+{
+    "pinyin": "fei",
+    "order": 111,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/fei1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/fei2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/fei3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/fei4.mp3"
+    ]
+}
+{
+    "pinyin": "dei",
+    "order": 112,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dei1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dei2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dei3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dei4.mp3"
+    ]
+}
+{
+    "pinyin": "nei",
+    "order": 113,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nei1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nei2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nei3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nei4.mp3"
+    ]
+}
+{
+    "pinyin": "lei",
+    "order": 114,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lei1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lei2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lei3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lei4.mp3"
+    ]
+}
+{
+    "pinyin": "gei",
+    "order": 115,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gei1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gei2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gei3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gei4.mp3"
+    ]
+}
+{
+    "pinyin": "hei",
+    "order": 116,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hei1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hei2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hei3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hei4.mp3"
+    ]
+}
+{
+    "pinyin": "zei",
+    "order": 117,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zei1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zei2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zei3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zei4.mp3"
+    ]
+}
+{
+    "pinyin": "zhei",
+    "order": 118,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhei1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhei2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhei3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhei4.mp3"
+    ]
+}
+{
+    "pinyin": "shei",
+    "order": 119,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shei1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shei2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shei3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shei4.mp3"
+    ]
+}
+{
+    "pinyin": "en",
+    "order": 120,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/en1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/en2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/en3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/en4.mp3"
+    ]
+}
+{
+    "pinyin": "ben",
+    "order": 121,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ben1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ben2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ben3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ben4.mp3"
+    ]
+}
+{
+    "pinyin": "pen",
+    "order": 122,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pen1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pen2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pen3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pen4.mp3"
+    ]
+}
+{
+    "pinyin": "men",
+    "order": 123,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/men1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/men2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/men3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/men4.mp3"
+    ]
+}
+{
+    "pinyin": "fen",
+    "order": 124,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/fen1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/fen2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/fen3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/fen4.mp3"
+    ]
+}
+{
+    "pinyin": "nen",
+    "order": 125,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nen1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nen2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nen3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nen4.mp3"
+    ]
+}
+{
+    "pinyin": "gen",
+    "order": 126,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gen1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gen2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gen3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gen4.mp3"
+    ]
+}
+{
+    "pinyin": "ken",
+    "order": 127,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ken1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ken2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ken3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ken4.mp3"
+    ]
+}
+{
+    "pinyin": "hen",
+    "order": 128,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hen1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hen2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hen3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hen4.mp3"
+    ]
+}
+{
+    "pinyin": "zen",
+    "order": 129,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zen1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zen2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zen3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zen4.mp3"
+    ]
+}
+{
+    "pinyin": "cen",
+    "order": 130,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cen1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cen2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cen3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cen4.mp3"
+    ]
+}
+{
+    "pinyin": "sen",
+    "order": 131,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sen1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sen2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sen3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sen4.mp3"
+    ]
+}
+{
+    "pinyin": "zhen",
+    "order": 132,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhen1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhen2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhen3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhen4.mp3"
+    ]
+}
+{
+    "pinyin": "chen",
+    "order": 133,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chen1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chen2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chen3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chen4.mp3"
+    ]
+}
+{
+    "pinyin": "shen",
+    "order": 134,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shen1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shen2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shen3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shen4.mp3"
+    ]
+}
+{
+    "pinyin": "ren",
+    "order": 135,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ren1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ren2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ren3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ren4.mp3"
+    ]
+}
+{
+    "pinyin": "eng",
+    "order": 136,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/eng1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/eng2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/eng3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/eng4.mp3"
+    ]
+}
+{
+    "pinyin": "beng",
+    "order": 137,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/beng1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/beng2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/beng3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/beng4.mp3"
+    ]
+}
+{
+    "pinyin": "peng",
+    "order": 138,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/peng1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/peng2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/peng3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/peng4.mp3"
+    ]
+}
+{
+    "pinyin": "meng",
+    "order": 139,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/meng1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/meng2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/meng3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/meng4.mp3"
+    ]
+}
+{
+    "pinyin": "feng",
+    "order": 140,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/feng1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/feng2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/feng3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/feng4.mp3"
+    ]
+}
+{
+    "pinyin": "deng",
+    "order": 141,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/deng1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/deng2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/deng3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/deng4.mp3"
+    ]
+}
+{
+    "pinyin": "teng",
+    "order": 142,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/teng1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/teng2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/teng3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/teng4.mp3"
+    ]
+}
+{
+    "pinyin": "neng",
+    "order": 143,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/neng1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/neng2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/neng3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/neng4.mp3"
+    ]
+}
+{
+    "pinyin": "leng",
+    "order": 144,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/leng1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/leng2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/leng3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/leng4.mp3"
+    ]
+}
+{
+    "pinyin": "geng",
+    "order": 145,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/geng1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/geng2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/geng3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/geng4.mp3"
+    ]
+}
+{
+    "pinyin": "keng",
+    "order": 146,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/keng1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/keng2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/keng3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/keng4.mp3"
+    ]
+}
+{
+    "pinyin": "heng",
+    "order": 147,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/heng1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/heng2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/heng3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/heng4.mp3"
+    ]
+}
+{
+    "pinyin": "zeng",
+    "order": 148,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zeng1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zeng2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zeng3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zeng4.mp3"
+    ]
+}
+{
+    "pinyin": "ceng",
+    "order": 149,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ceng1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ceng2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ceng3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ceng4.mp3"
+    ]
+}
+{
+    "pinyin": "seng",
+    "order": 150,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/seng1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/seng2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/seng3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/seng4.mp3"
+    ]
+}
+{
+    "pinyin": "zheng",
+    "order": 151,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zheng1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zheng2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zheng3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zheng4.mp3"
+    ]
+}
+{
+    "pinyin": "cheng",
+    "order": 152,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cheng1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cheng2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cheng3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cheng4.mp3"
+    ]
+}
+{
+    "pinyin": "sheng",
+    "order": 153,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sheng1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sheng2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sheng3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sheng4.mp3"
+    ]
+}
+{
+    "pinyin": "reng",
+    "order": 154,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/reng1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/reng2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/reng3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/reng4.mp3"
+    ]
+}
+{
+    "pinyin": "er",
+    "order": 155,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/er1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/er2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/er3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/er4.mp3"
+    ]
+}
+{
+    "pinyin": "yi",
+    "order": 156,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yi1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yi2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yi3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yi4.mp3"
+    ]
+}
+{
+    "pinyin": "bi",
+    "order": 157,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bi1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bi2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bi3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bi4.mp3"
+    ]
+}
+{
+    "pinyin": "pi",
+    "order": 158,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pi1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pi2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pi3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pi4.mp3"
+    ]
+}
+{
+    "pinyin": "mi",
+    "order": 159,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mi1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mi2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mi3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mi4.mp3"
+    ]
+}
+{
+    "pinyin": "di",
+    "order": 160,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/di1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/di2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/di3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/di4.mp3"
+    ]
+}
+{
+    "pinyin": "ti",
+    "order": 161,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ti1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ti2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ti3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ti4.mp3"
+    ]
+}
+{
+    "pinyin": "ni",
+    "order": 162,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ni1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ni2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ni3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ni4.mp3"
+    ]
+}
+{
+    "pinyin": "li",
+    "order": 163,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/li1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/li2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/li3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/li4.mp3"
+    ]
+}
+{
+    "pinyin": "ji",
+    "order": 164,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ji1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ji2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ji3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ji4.mp3"
+    ]
+}
+{
+    "pinyin": "qi",
+    "order": 165,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qi1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qi2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qi3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qi4.mp3"
+    ]
+}
+{
+    "pinyin": "xi",
+    "order": 166,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xi1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xi2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xi3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xi4.mp3"
+    ]
+}
+{
+    "pinyin": "zi",
+    "order": 167,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zi1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zi2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zi3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zi4.mp3"
+    ]
+}
+{
+    "pinyin": "ci",
+    "order": 168,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ci1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ci2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ci3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ci4.mp3"
+    ]
+}
+{
+    "pinyin": "si",
+    "order": 169,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/si1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/si2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/si3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/si4.mp3"
+    ]
+}
+{
+    "pinyin": "zhi",
+    "order": 170,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhi1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhi2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhi3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhi4.mp3"
+    ]
+}
+{
+    "pinyin": "chi",
+    "order": 171,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chi1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chi2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chi3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chi4.mp3"
+    ]
+}
+{
+    "pinyin": "shi",
+    "order": 172,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shi1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shi2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shi3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shi4.mp3"
+    ]
+}
+{
+    "pinyin": "ri",
+    "order": 173,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ri1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ri2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ri3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ri4.mp3"
+    ]
+}
+{
+    "pinyin": "ya",
+    "order": 174,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ya1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ya2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ya3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ya4.mp3"
+    ]
+}
+{
+    "pinyin": "dia",
+    "order": 175,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dia1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dia2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dia3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dia4.mp3"
+    ]
+}
+{
+    "pinyin": "lia",
+    "order": 176,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lia1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lia2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lia3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lia4.mp3"
+    ]
+}
+{
+    "pinyin": "jia",
+    "order": 177,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jia1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jia2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jia3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jia4.mp3"
+    ]
+}
+{
+    "pinyin": "qia",
+    "order": 178,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qia1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qia2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qia3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qia4.mp3"
+    ]
+}
+{
+    "pinyin": "xia",
+    "order": 179,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xia1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xia2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xia3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xia4.mp3"
+    ]
+}
+{
+    "pinyin": "yan",
+    "order": 180,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yan1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yan2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yan3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yan4.mp3"
+    ]
+}
+{
+    "pinyin": "bian",
+    "order": 181,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bian1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bian2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bian3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bian4.mp3"
+    ]
+}
+{
+    "pinyin": "pian",
+    "order": 182,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pian1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pian2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pian3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pian4.mp3"
+    ]
+}
+{
+    "pinyin": "mian",
+    "order": 183,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mian1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mian2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mian3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mian4.mp3"
+    ]
+}
+{
+    "pinyin": "dian",
+    "order": 184,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dian1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dian2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dian3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dian4.mp3"
+    ]
+}
+{
+    "pinyin": "tian",
+    "order": 185,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tian1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tian2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tian3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tian4.mp3"
+    ]
+}
+{
+    "pinyin": "nian",
+    "order": 186,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nian1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nian2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nian3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nian4.mp3"
+    ]
+}
+{
+    "pinyin": "lian",
+    "order": 187,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lian1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lian2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lian3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lian4.mp3"
+    ]
+}
+{
+    "pinyin": "jian",
+    "order": 188,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jian1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jian2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jian3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jian4.mp3"
+    ]
+}
+{
+    "pinyin": "qian",
+    "order": 189,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qian1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qian2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qian3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qian4.mp3"
+    ]
+}
+{
+    "pinyin": "xian",
+    "order": 190,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xian1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xian2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xian3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xian4.mp3"
+    ]
+}
+{
+    "pinyin": "yang",
+    "order": 191,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yang1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yang2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yang3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yang4.mp3"
+    ]
+}
+{
+    "pinyin": "niang",
+    "order": 192,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/niang1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/niang2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/niang3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/niang4.mp3"
+    ]
+}
+{
+    "pinyin": "liang",
+    "order": 193,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/liang1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/liang2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/liang3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/liang4.mp3"
+    ]
+}
+{
+    "pinyin": "jiang",
+    "order": 194,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jiang1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jiang2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jiang3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jiang4.mp3"
+    ]
+}
+{
+    "pinyin": "qiang",
+    "order": 195,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qiang1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qiang2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qiang3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qiang4.mp3"
+    ]
+}
+{
+    "pinyin": "xiang",
+    "order": 196,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xiang1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xiang2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xiang3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xiang4.mp3"
+    ]
+}
+{
+    "pinyin": "yao",
+    "order": 197,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yao1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yao2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yao3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yao4.mp3"
+    ]
+}
+{
+    "pinyin": "biao",
+    "order": 198,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/biao1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/biao2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/biao3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/biao4.mp3"
+    ]
+}
+{
+    "pinyin": "piao",
+    "order": 199,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/piao1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/piao2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/piao3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/piao4.mp3"
+    ]
+}
+{
+    "pinyin": "miao",
+    "order": 200,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/miao1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/miao2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/miao3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/miao4.mp3"
+    ]
+}
+{
+    "pinyin": "diao",
+    "order": 201,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/diao1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/diao2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/diao3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/diao4.mp3"
+    ]
+}
+{
+    "pinyin": "tiao",
+    "order": 202,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tiao1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tiao2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tiao3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tiao4.mp3"
+    ]
+}
+{
+    "pinyin": "niao",
+    "order": 203,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/niao1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/niao2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/niao3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/niao4.mp3"
+    ]
+}
+{
+    "pinyin": "liao",
+    "order": 204,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/liao1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/liao2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/liao3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/liao4.mp3"
+    ]
+}
+{
+    "pinyin": "jiao",
+    "order": 205,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jiao1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jiao2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jiao3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jiao4.mp3"
+    ]
+}
+{
+    "pinyin": "qiao",
+    "order": 206,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qiao1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qiao2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qiao3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qiao4.mp3"
+    ]
+}
+{
+    "pinyin": "xiao",
+    "order": 207,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xiao1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xiao2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xiao3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xiao4.mp3"
+    ]
+}
+{
+    "pinyin": "ye",
+    "order": 208,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ye1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ye2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ye3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ye4.mp3"
+    ]
+}
+{
+    "pinyin": "bie",
+    "order": 209,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bie1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bie2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bie3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bie4.mp3"
+    ]
+}
+{
+    "pinyin": "pie",
+    "order": 210,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pie1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pie2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pie3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pie4.mp3"
+    ]
+}
+{
+    "pinyin": "mie",
+    "order": 211,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mie1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mie2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mie3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mie4.mp3"
+    ]
+}
+{
+    "pinyin": "die",
+    "order": 212,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/die1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/die2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/die3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/die4.mp3"
+    ]
+}
+{
+    "pinyin": "tie",
+    "order": 213,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tie1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tie2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tie3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tie4.mp3"
+    ]
+}
+{
+    "pinyin": "nie",
+    "order": 214,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nie1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nie2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nie3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nie4.mp3"
+    ]
+}
+{
+    "pinyin": "lie",
+    "order": 215,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lie1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lie2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lie3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lie4.mp3"
+    ]
+}
+{
+    "pinyin": "jie",
+    "order": 216,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jie1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jie2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jie3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jie4.mp3"
+    ]
+}
+{
+    "pinyin": "qie",
+    "order": 217,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qie1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qie2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qie3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qie4.mp3"
+    ]
+}
+{
+    "pinyin": "xie",
+    "order": 218,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xie1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xie2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xie3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xie4.mp3"
+    ]
+}
+{
+    "pinyin": "yin",
+    "order": 219,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yin1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yin2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yin3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yin4.mp3"
+    ]
+}
+{
+    "pinyin": "bin",
+    "order": 220,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bin1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bin2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bin3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bin4.mp3"
+    ]
+}
+{
+    "pinyin": "pin",
+    "order": 221,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pin1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pin2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pin3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pin4.mp3"
+    ]
+}
+{
+    "pinyin": "min",
+    "order": 222,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/min1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/min2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/min3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/min4.mp3"
+    ]
+}
+{
+    "pinyin": "nin",
+    "order": 223,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nin1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nin2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nin3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nin4.mp3"
+    ]
+}
+{
+    "pinyin": "lin",
+    "order": 224,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lin1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lin2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lin3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lin4.mp3"
+    ]
+}
+{
+    "pinyin": "jin",
+    "order": 225,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jin1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jin2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jin3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jin4.mp3"
+    ]
+}
+{
+    "pinyin": "qin",
+    "order": 226,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qin1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qin2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qin3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qin4.mp3"
+    ]
+}
+{
+    "pinyin": "xin",
+    "order": 227,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xin1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xin2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xin3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xin4.mp3"
+    ]
+}
+{
+    "pinyin": "ying",
+    "order": 228,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ying1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ying2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ying3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ying4.mp3"
+    ]
+}
+{
+    "pinyin": "bing",
+    "order": 229,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bing1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bing2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bing3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bing4.mp3"
+    ]
+}
+{
+    "pinyin": "ping",
+    "order": 230,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ping1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ping2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ping3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ping4.mp3"
+    ]
+}
+{
+    "pinyin": "ming",
+    "order": 231,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ming1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ming2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ming3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ming4.mp3"
+    ]
+}
+{
+    "pinyin": "ding",
+    "order": 232,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ding1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ding2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ding3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ding4.mp3"
+    ]
+}
+{
+    "pinyin": "ting",
+    "order": 233,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ting1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ting2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ting3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ting4.mp3"
+    ]
+}
+{
+    "pinyin": "ning",
+    "order": 234,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ning1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ning2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ning3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ning4.mp3"
+    ]
+}
+{
+    "pinyin": "ling",
+    "order": 235,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ling1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ling2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ling3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ling4.mp3"
+    ]
+}
+{
+    "pinyin": "jing",
+    "order": 236,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jing1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jing2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jing3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jing4.mp3"
+    ]
+}
+{
+    "pinyin": "qing",
+    "order": 237,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qing1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qing2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qing3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qing4.mp3"
+    ]
+}
+{
+    "pinyin": "xing",
+    "order": 238,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xing1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xing2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xing3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xing4.mp3"
+    ]
+}
+{
+    "pinyin": "yong",
+    "order": 239,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yong1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yong2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yong3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yong4.mp3"
+    ]
+}
+{
+    "pinyin": "jiong",
+    "order": 240,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jiong1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jiong2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jiong3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jiong4.mp3"
+    ]
+}
+{
+    "pinyin": "qiong",
+    "order": 241,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qiong1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qiong2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qiong3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qiong4.mp3"
+    ]
+}
+{
+    "pinyin": "xiong",
+    "order": 242,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xiong1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xiong2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xiong3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xiong4.mp3"
+    ]
+}
+{
+    "pinyin": "you",
+    "order": 243,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/you1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/you2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/you3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/you4.mp3"
+    ]
+}
+{
+    "pinyin": "miu",
+    "order": 244,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/miu1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/miu2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/miu3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/miu4.mp3"
+    ]
+}
+{
+    "pinyin": "diu",
+    "order": 245,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/diu1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/diu2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/diu3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/diu4.mp3"
+    ]
+}
+{
+    "pinyin": "niu",
+    "order": 246,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/niu1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/niu2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/niu3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/niu4.mp3"
+    ]
+}
+{
+    "pinyin": "liu",
+    "order": 247,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/liu1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/liu2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/liu3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/liu4.mp3"
+    ]
+}
+{
+    "pinyin": "jiu",
+    "order": 248,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jiu1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jiu2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jiu3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jiu4.mp3"
+    ]
+}
+{
+    "pinyin": "qiu",
+    "order": 249,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qiu1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qiu2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qiu3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qiu4.mp3"
+    ]
+}
+{
+    "pinyin": "xiu",
+    "order": 250,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xiu1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xiu2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xiu3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xiu4.mp3"
+    ]
+}
+{
+    "pinyin": "o",
+    "order": 251,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/o1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/o2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/o3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/o4.mp3"
+    ]
+}
+{
+    "pinyin": "bo",
+    "order": 252,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bo1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bo2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bo3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bo4.mp3"
+    ]
+}
+{
+    "pinyin": "po",
+    "order": 253,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/po1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/po2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/po3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/po4.mp3"
+    ]
+}
+{
+    "pinyin": "mo",
+    "order": 254,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mo1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mo2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mo3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mo4.mp3"
+    ]
+}
+{
+    "pinyin": "fo",
+    "order": 254.1,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/fo1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/fo2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/fo3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/fo4.mp3"
+    ]
+}
+{
+    "pinyin": "dong",
+    "order": 254.2,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dong1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dong2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dong3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dong4.mp3"
+    ]
+}
+{
+    "pinyin": "tong",
+    "order": 254.3,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tong1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tong2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tong3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tong4.mp3"
+    ]
+}
+{
+    "pinyin": "nong",
+    "order": 254.4,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nong1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nong2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nong3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nong4.mp3"
+    ]
+}
+{
+    "pinyin": "long",
+    "order": 254.5,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/long1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/long2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/long3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/long4.mp3"
+    ]
+}
+{
+    "pinyin": "gong",
+    "order": 254.6,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gong1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gong2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gong3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gong4.mp3"
+    ]
+}
+{
+    "pinyin": "kong",
+    "order": 254.7,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kong1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kong2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kong3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kong4.mp3"
+    ]
+}
+{
+    "pinyin": "hong",
+    "order": 254.8,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hong1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hong2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hong3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hong4.mp3"
+    ]
+}
+{
+    "pinyin": "zong",
+    "order": 254.9,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zong1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zong2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zong3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zong4.mp3"
+    ]
+}
+{
+    "pinyin": "cong",
+    "order": 254.91,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cong1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cong2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cong3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cong4.mp3"
+    ]
+}
+{
+    "pinyin": "song",
+    "order": 254.92,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/song1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/song2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/song3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/song4.mp3"
+    ]
+}
+{
+    "pinyin": "zhong",
+    "order": 254.93,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhong1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhong2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhong3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhong4.mp3"
+    ]
+}
+{
+    "pinyin": "chong",
+    "order": 254.94,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chong1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chong2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chong3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chong4.mp3"
+    ]
+}
+{
+    "pinyin": "rong",
+    "order": 254.95,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/rong1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/rong2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/rong3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/rong4.mp3"
+    ]
+}
+{
+    "pinyin": "ou",
+    "order": 254.96,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ou1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ou2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ou3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ou4.mp3"
+    ]
+}
+{
+    "pinyin": "pou",
+    "order": 254.97,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pou1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pou2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pou3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pou4.mp3"
+    ]
+}
+{
+    "pinyin": "mou",
+    "order": 254.98,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mou1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mou2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mou3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mou4.mp3"
+    ]
+}
+{
+    "pinyin": "fou",
+    "order": 255,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/fou1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/fou2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/fou3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/fou4.mp3"
+    ]
+}
+{
+    "pinyin": "dou",
+    "order": 256,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dou1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dou2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dou3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dou4.mp3"
+    ]
+}
+{
+    "pinyin": "tou",
+    "order": 257,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tou1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tou2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tou3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tou4.mp3"
+    ]
+}
+{
+    "pinyin": "lou",
+    "order": 258,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lou1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lou2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lou3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lou4.mp3"
+    ]
+}
+{
+    "pinyin": "gou",
+    "order": 259,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gou1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gou2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gou3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gou4.mp3"
+    ]
+}
+{
+    "pinyin": "kou",
+    "order": 260,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kou1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kou2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kou3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kou4.mp3"
+    ]
+}
+{
+    "pinyin": "hou",
+    "order": 261,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hou1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hou2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hou3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hou4.mp3"
+    ]
+}
+{
+    "pinyin": "zou",
+    "order": 262,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zou1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zou2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zou3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zou4.mp3"
+    ]
+}
+{
+    "pinyin": "cou",
+    "order": 263,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cou1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cou2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cou3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cou4.mp3"
+    ]
+}
+{
+    "pinyin": "sou",
+    "order": 264,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sou1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sou2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sou3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sou4.mp3"
+    ]
+}
+{
+    "pinyin": "zhou",
+    "order": 265,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhou1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhou2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhou3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhou4.mp3"
+    ]
+}
+{
+    "pinyin": "chou",
+    "order": 266,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chou1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chou2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chou3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chou4.mp3"
+    ]
+}
+{
+    "pinyin": "shou",
+    "order": 267,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shou1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shou2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shou3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shou4.mp3"
+    ]
+}
+{
+    "pinyin": "rou",
+    "order": 268,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/rou1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/rou2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/rou3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/rou4.mp3"
+    ]
+}
+{
+    "pinyin": "wu",
+    "order": 269,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/wu1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/wu2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/wu3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/wu4.mp3"
+    ]
+}
+{
+    "pinyin": "bu",
+    "order": 270,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bu1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bu2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bu3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/bu4.mp3"
+    ]
+}
+{
+    "pinyin": "pu",
+    "order": 271,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pu1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pu2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pu3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/pu4.mp3"
+    ]
+}
+{
+    "pinyin": "mu",
+    "order": 272,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mu1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mu2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mu3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/mu4.mp3"
+    ]
+}
+{
+    "pinyin": "fu",
+    "order": 273,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/fu1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/fu2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/fu3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/fu4.mp3"
+    ]
+}
+{
+    "pinyin": "du",
+    "order": 274,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/du1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/du2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/du3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/du4.mp3"
+    ]
+}
+{
+    "pinyin": "tu",
+    "order": 275,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tu1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tu2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tu3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tu4.mp3"
+    ]
+}
+{
+    "pinyin": "nu",
+    "order": 276,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nu1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nu2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nu3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nu4.mp3"
+    ]
+}
+{
+    "pinyin": "lu",
+    "order": 277,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lu1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lu2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lu3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lu4.mp3"
+    ]
+}
+{
+    "pinyin": "gu",
+    "order": 278,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gu1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gu2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gu3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gu4.mp3"
+    ]
+}
+{
+    "pinyin": "ku",
+    "order": 279,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ku1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ku2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ku3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ku4.mp3"
+    ]
+}
+{
+    "pinyin": "hu",
+    "order": 280,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hu1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hu2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hu3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hu4.mp3"
+    ]
+}
+{
+    "pinyin": "zu",
+    "order": 281,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zu1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zu2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zu3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zu4.mp3"
+    ]
+}
+{
+    "pinyin": "cu",
+    "order": 282,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cu1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cu2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cu3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cu4.mp3"
+    ]
+}
+{
+    "pinyin": "su",
+    "order": 283,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/su1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/su2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/su3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/su4.mp3"
+    ]
+}
+{
+    "pinyin": "zhu",
+    "order": 284,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhu1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhu2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhu3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhu4.mp3"
+    ]
+}
+{
+    "pinyin": "chu",
+    "order": 285,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chu1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chu2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chu3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chu4.mp3"
+    ]
+}
+{
+    "pinyin": "shu",
+    "order": 286,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shu1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shu2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shu3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shu4.mp3"
+    ]
+}
+{
+    "pinyin": "ru",
+    "order": 287,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ru1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ru2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ru3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ru4.mp3"
+    ]
+}
+{
+    "pinyin": "wa",
+    "order": 288,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/wa1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/wa2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/wa3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/wa4.mp3"
+    ]
+}
+{
+    "pinyin": "gua",
+    "order": 289,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gua1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gua2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gua3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gua4.mp3"
+    ]
+}
+{
+    "pinyin": "kua",
+    "order": 290,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kua1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kua2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kua3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kua4.mp3"
+    ]
+}
+{
+    "pinyin": "hua",
+    "order": 291,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hua1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hua2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hua3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hua4.mp3"
+    ]
+}
+{
+    "pinyin": "zhua",
+    "order": 292,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhua1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhua2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhua3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhua4.mp3"
+    ]
+}
+{
+    "pinyin": "shua",
+    "order": 293,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shua1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shua2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shua3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shua4.mp3"
+    ]
+}
+{
+    "pinyin": "wai",
+    "order": 294,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/wai1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/wai2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/wai3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/wai4.mp3"
+    ]
+}
+{
+    "pinyin": "guai",
+    "order": 295,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/guai1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/guai2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/guai3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/guai4.mp3"
+    ]
+}
+{
+    "pinyin": "kuai",
+    "order": 296,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kuai1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kuai2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kuai3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kuai4.mp3"
+    ]
+}
+{
+    "pinyin": "huai",
+    "order": 297,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/huai1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/huai2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/huai3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/huai4.mp3"
+    ]
+}
+{
+    "pinyin": "zhuai",
+    "order": 298,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhuai1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhuai2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhuai3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhuai4.mp3"
+    ]
+}
+{
+    "pinyin": "chuai",
+    "order": 299,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chuai1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chuai2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chuai3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chuai4.mp3"
+    ]
+}
+{
+    "pinyin": "shuai",
+    "order": 300,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shuai1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shuai2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shuai3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shuai4.mp3"
+    ]
+}
+{
+    "pinyin": "wan",
+    "order": 301,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/wan1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/wan2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/wan3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/wan4.mp3"
+    ]
+}
+{
+    "pinyin": "duan",
+    "order": 302,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/duan1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/duan2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/duan3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/duan4.mp3"
+    ]
+}
+{
+    "pinyin": "tuan",
+    "order": 303,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tuan1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tuan2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tuan3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tuan4.mp3"
+    ]
+}
+{
+    "pinyin": "nuan",
+    "order": 304,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nuan1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nuan2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nuan3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nuan4.mp3"
+    ]
+}
+{
+    "pinyin": "luan",
+    "order": 305,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/luan1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/luan2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/luan3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/luan4.mp3"
+    ]
+}
+{
+    "pinyin": "guan",
+    "order": 306,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/guan1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/guan2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/guan3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/guan4.mp3"
+    ]
+}
+{
+    "pinyin": "kuan",
+    "order": 307,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kuan1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kuan2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kuan3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kuan4.mp3"
+    ]
+}
+{
+    "pinyin": "huan",
+    "order": 308,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/huan1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/huan2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/huan3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/huan4.mp3"
+    ]
+}
+{
+    "pinyin": "zuan",
+    "order": 309,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zuan1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zuan2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zuan3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zuan4.mp3"
+    ]
+}
+{
+    "pinyin": "cuan",
+    "order": 310,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cuan1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cuan2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cuan3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cuan4.mp3"
+    ]
+}
+{
+    "pinyin": "suan",
+    "order": 311,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/suan1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/suan2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/suan3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/suan4.mp3"
+    ]
+}
+{
+    "pinyin": "zhuan",
+    "order": 312,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhuan1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhuan2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhuan3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhuan4.mp3"
+    ]
+}
+{
+    "pinyin": "chuan",
+    "order": 313,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chuan1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chuan2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chuan3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chuan4.mp3"
+    ]
+}
+{
+    "pinyin": "shuan",
+    "order": 314,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shuan1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shuan2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shuan3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shuan4.mp3"
+    ]
+}
+{
+    "pinyin": "ruan",
+    "order": 315,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ruan1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ruan2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ruan3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ruan4.mp3"
+    ]
+}
+{
+    "pinyin": "wang",
+    "order": 316,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/wang1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/wang2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/wang3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/wang4.mp3"
+    ]
+}
+{
+    "pinyin": "guang",
+    "order": 317,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/guang1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/guang2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/guang3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/guang4.mp3"
+    ]
+}
+{
+    "pinyin": "kuang",
+    "order": 318,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kuang1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kuang2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kuang3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kuang4.mp3"
+    ]
+}
+{
+    "pinyin": "huang",
+    "order": 319,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/huang1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/huang2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/huang3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/huang4.mp3"
+    ]
+}
+{
+    "pinyin": "zhuang",
+    "order": 320,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhuang1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhuang2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhuang3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhuang4.mp3"
+    ]
+}
+{
+    "pinyin": "chuang",
+    "order": 321,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chuang1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chuang2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chuang3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chuang4.mp3"
+    ]
+}
+{
+    "pinyin": "shuang",
+    "order": 322,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shuang1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shuang2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shuang3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shuang4.mp3"
+    ]
+}
+{
+    "pinyin": "wei",
+    "order": 323,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/wei1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/wei2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/wei3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/wei4.mp3"
+    ]
+}
+{
+    "pinyin": "dui",
+    "order": 324,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dui1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dui2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dui3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dui4.mp3"
+    ]
+}
+{
+    "pinyin": "tui",
+    "order": 325,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tui1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tui2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tui3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tui4.mp3"
+    ]
+}
+{
+    "pinyin": "gui",
+    "order": 326,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gui1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gui2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gui3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gui4.mp3"
+    ]
+}
+{
+    "pinyin": "kui",
+    "order": 327,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kui1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kui2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kui3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kui4.mp3"
+    ]
+}
+{
+    "pinyin": "hui",
+    "order": 328,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hui1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hui2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hui3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hui4.mp3"
+    ]
+}
+{
+    "pinyin": "zui",
+    "order": 329,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zui1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zui2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zui3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zui4.mp3"
+    ]
+}
+{
+    "pinyin": "cui",
+    "order": 330,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cui1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cui2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cui3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cui4.mp3"
+    ]
+}
+{
+    "pinyin": "sui",
+    "order": 331,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sui1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sui2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sui3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sui4.mp3"
+    ]
+}
+{
+    "pinyin": "zhui",
+    "order": 332,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhui1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhui2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhui3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhui4.mp3"
+    ]
+}
+{
+    "pinyin": "chui",
+    "order": 333,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chui1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chui2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chui3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chui4.mp3"
+    ]
+}
+{
+    "pinyin": "shui",
+    "order": 334,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shui1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shui2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shui3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shui4.mp3"
+    ]
+}
+{
+    "pinyin": "rui",
+    "order": 335,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/rui1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/rui2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/rui3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/rui4.mp3"
+    ]
+}
+{
+    "pinyin": "wen",
+    "order": 336,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/wen1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/wen2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/wen3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/wen4.mp3"
+    ]
+}
+{
+    "pinyin": "dun",
+    "order": 337,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dun1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dun2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dun3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/dun4.mp3"
+    ]
+}
+{
+    "pinyin": "tun",
+    "order": 338,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tun1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tun2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tun3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tun4.mp3"
+    ]
+}
+{
+    "pinyin": "lun",
+    "order": 339,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lun1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lun2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lun3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lun4.mp3"
+    ]
+}
+{
+    "pinyin": "gun",
+    "order": 340,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gun1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gun2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gun3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/gun4.mp3"
+    ]
+}
+{
+    "pinyin": "kun",
+    "order": 341,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kun1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kun2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kun3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kun4.mp3"
+    ]
+}
+{
+    "pinyin": "hun",
+    "order": 342,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hun1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hun2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hun3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/hun4.mp3"
+    ]
+}
+{
+    "pinyin": "zun",
+    "order": 343,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zun1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zun2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zun3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zun4.mp3"
+    ]
+}
+{
+    "pinyin": "cun",
+    "order": 344,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cun1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cun2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cun3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cun4.mp3"
+    ]
+}
+{
+    "pinyin": "sun",
+    "order": 345,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sun1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sun2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sun3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/sun4.mp3"
+    ]
+}
+{
+    "pinyin": "zhun",
+    "order": 346,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhun1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhun2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhun3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhun4.mp3"
+    ]
+}
+{
+    "pinyin": "chun",
+    "order": 347,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chun1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chun2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chun3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chun4.mp3"
+    ]
+}
+{
+    "pinyin": "shun",
+    "order": 348,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shun1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shun2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shun3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shun4.mp3"
+    ]
+}
+{
+    "pinyin": "run",
+    "order": 349,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/run1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/run2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/run3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/run4.mp3"
+    ]
+}
+{
+    "pinyin": "weng",
+    "order": 350,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/weng1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/weng2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/weng3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/weng4.mp3"
+    ]
+}
+{
+    "pinyin": "wo",
+    "order": 351,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/wo1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/wo2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/wo3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/wo4.mp3"
+    ]
+}
+{
+    "pinyin": "duo",
+    "order": 352,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/duo1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/duo2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/duo3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/duo4.mp3"
+    ]
+}
+{
+    "pinyin": "tuo",
+    "order": 353,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tuo1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tuo2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tuo3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/tuo4.mp3"
+    ]
+}
+{
+    "pinyin": "nuo",
+    "order": 354,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nuo1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nuo2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nuo3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nuo4.mp3"
+    ]
+}
+{
+    "pinyin": "luo",
+    "order": 355,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/luo1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/luo2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/luo3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/luo4.mp3"
+    ]
+}
+{
+    "pinyin": "guo",
+    "order": 356,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/guo1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/guo2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/guo3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/guo4.mp3"
+    ]
+}
+{
+    "pinyin": "kuo",
+    "order": 357,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kuo1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kuo2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kuo3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/kuo4.mp3"
+    ]
+}
+{
+    "pinyin": "huo",
+    "order": 358,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/huo1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/huo2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/huo3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/huo4.mp3"
+    ]
+}
+{
+    "pinyin": "zuo",
+    "order": 359,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zuo1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zuo2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zuo3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zuo4.mp3"
+    ]
+}
+{
+    "pinyin": "cuo",
+    "order": 360,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cuo1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cuo2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cuo3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/cuo4.mp3"
+    ]
+}
+{
+    "pinyin": "suo",
+    "order": 361,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/suo1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/suo2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/suo3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/suo4.mp3"
+    ]
+}
+{
+    "pinyin": "zhuo",
+    "order": 362,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhuo1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhuo2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhuo3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/zhuo4.mp3"
+    ]
+}
+{
+    "pinyin": "chuo",
+    "order": 363,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chuo1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chuo2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chuo3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/chuo4.mp3"
+    ]
+}
+{
+    "pinyin": "shuo",
+    "order": 364,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shuo1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shuo2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shuo3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/shuo4.mp3"
+    ]
+}
+{
+    "pinyin": "ruo",
+    "order": 365,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ruo1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ruo2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ruo3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ruo4.mp3"
+    ]
+}
+{
+    "pinyin": "yu",
+    "order": 366,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yu1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yu2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yu3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yu4.mp3"
+    ]
+}
+{
+    "pinyin": "n\u00fc",
+    "order": 367,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/n\u00fc1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/n\u00fc2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/n\u00fc3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/n\u00fc4.mp3"
+    ]
+}
+{
+    "pinyin": "l\u00fc",
+    "order": 368,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lv1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lv2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lv3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lv4.mp3"
+    ]
+}
+{
+    "pinyin": "ju",
+    "order": 369,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ju1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ju2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ju3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/ju4.mp3"
+    ]
+}
+{
+    "pinyin": "qu",
+    "order": 370,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qu1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qu2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qu3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qu4.mp3"
+    ]
+}
+{
+    "pinyin": "xu",
+    "order": 371, 
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xu1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xu2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xu3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xu4.mp3"
+    ]
+}
+{
+    "pinyin": "yuan",
+    "order": 372, 
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yuan1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yuan2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yuan3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yuan4.mp3"
+    ]
+}
+{
+    "pinyin": "juan",
+    "order": 373, 
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/juan1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/juan2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/juan3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/juan4.mp3"
+    ]
+}
+{
+    "pinyin": "quan",
+    "order": 374, 
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/quan1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/quan2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/quan3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/quan4.mp3"
+    ]
+}
+{
+    "pinyin": "xuan",
+    "order": 375, 
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xuan1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xuan2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xuan3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xuan4.mp3"
+    ]
+}
+{
+    "pinyin": "yue",
+    "order": 376, 
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yue1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yue2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yue3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yue4.mp3"
+    ]
+}
+{
+    "pinyin": "n\u00fce",
+    "order": 377, 
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nue1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nue2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nue3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/nue4.mp3"
+    ]
+}
+{
+    "pinyin": "l\u00fce",
+    "order": 377, 
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lve1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lve2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lve3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/lve4.mp3"
+    ]
+}
+{
+    "pinyin": "jue",
+    "order": 378,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jue1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jue2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jue3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jue4.mp3"
+    ]
+}
+{
+    "pinyin": "que",
+    "order": 379,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/que1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/que2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/que3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/que4.mp3"
+    ]
+}
+{
+    "pinyin": "xue",
+    "order": 380,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xue1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xue2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xue3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xue4.mp3"
+    ]
+}
+{
+    "pinyin": "yun",
+    "order": 381,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yun1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yun2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yun3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/yun4.mp3"
+    ]
+}
+{
+    "pinyin": "jun",
+    "order": 382,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jun1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jun2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jun3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/jun4.mp3"
+    ]
+}
+{
+    "pinyin": "qun",
+    "order": 383,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qun1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qun2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qun3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/qun4.mp3"
+    ]
+}
+{
+    "pinyin": "xun",
+    "order": 384,
+    "tone1_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xun1.mp3"
+    ],
+    "tone2_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xun2.mp3"
+    ],
+    "tone3_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xun3.mp3"
+    ],
+    "tone4_audio": [
+        "https://cdn.yoyochinese.com/audio/pychart/xun4.mp3"
+    ]
+}

@@ -1,0 +1,96 @@
+body {
+	background-color: #202224;
+}
+
+ul:hover {
+	cursor: default;
+}
+
+.title {
+	font-family: "Tahoma";
+	font-size: 39px;
+	font-weight: 600;
+	color: #fe9801;
+	text-align: center;
+	margin-top: 15px;
+}
+
+.menu {
+	display: none;
+	position: absolute;
+	text-align: left;
+}
+
+.topMenu {
+	margin-top: 30px;
+	text-align: left;
+	margin-bottom: 35px;
+	font-family: "Arial";
+	margin-left: 10px;
+}
+
+.item {
+	display: inline-block;
+	text-align: center;
+	padding: 5px;
+	margin: 5px;
+	margin-bottom: 15px;
+	background-color: #181A1B;
+	color: #f1f1f1;
+	cursor: default;
+	cursor: pointer;
+}
+
+.item:hover {
+	background-color: #2C2F30;
+}
+
+.pinyin-info {
+	display: none;
+	position: absolute;
+	background-color: #212324;
+	min-width: 50px;
+	z-index: 1;
+	float: left;
+	border: 1px solid #8A8275;
+	padding: 10px;
+  	box-shadow: 5px 10px 3px #27292B;
+  	overflow: hidden;
+  	font-size: 18px;
+}
+
+.show {
+	display: block;
+}
+
+.pinyin-info {
+	color: #E8E6E3;
+	font-size: 18px;
+}
+
+.footer {
+	margin-top: 100px;
+}
+
+
+#pinyin-list {
+	margin-right: 100px;
+	margin-bottom: 180px;
+	margin-left: 50px;
+	margin-top: 50px;
+	
+}
+
+.inner-menu-container {
+    display: flex;
+}
+
+.inner-menu {
+    margin-right: 10px;
+	cursor: pointer;
+}
+
+.last-item {
+    margin-right: 0;
+	cursor: pointer;
+}

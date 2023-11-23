@@ -1,0 +1,47 @@
+version: '3'
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    image: node:latest
+    container_name: node_app_pinyin
+    working_dir: /usr/src/app
+    volumes:
+      - .:/usr/src/app
+      - /usr/src/app/node_modules
+    ports:
+      - "3000:3000"
+    links:
+        - db
+    command: npm start
+    depends_on:
+      - db
+  
+  apache:
+    build:
+      context: .
+      dockerfile: ./docker/web/Dockerfile
+    container_name: apache_app_pinyin
+    image: httpd:latest
+    volumes:
+      - ./website/:/usr/local/apache2/htdocs/pinyin/
+    ports:
+      - "8080:80"
+    depends_on:
+      - app
+
+  db:
+    container_name: mongo_app_pinyin
+    image: mongo:5.0.6
+    volumes:
+      - mongodata:/data/db
+    ports:
+      - "30017:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: n5QXBTA6RYWmvZq7
+      MONGO_INITDB_DATABASE: pinyintable
+volumes:
+        mongodata:
